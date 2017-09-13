@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\99b073f5d52d282a12a13e014d375362ff6fc60e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\github\MyApplication\mynotification\build\intermediates\pre-dexed\debug\classes_9b9649b68344a6b5ef56992fbcbb48c69bc8c213.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\06a4c74337c5f9782e067fadca486be7dd83242f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\github\MyApplication\mynotification\build\intermediates\pre-dexed\debug\classes_642a0dd596360556eb0c5efc01648a56d90cb91e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\648b73bba3c9abcb20b00ab6b7f4e3ff8e50be44\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\github\MyApplication\mynotification\build\intermediates\pre-dexed\debug\classes_4968184cd64597be814cce0326539124ef16c1c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\9ba5f53e7e45ddbac2fbd89f330e787aad024bb0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\github\MyApplication\mynotification\build\intermediates\pre-dexed\debug\classes_f28e198db78c5fe4e25f7d017a6854841a3d35a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\4d46c8c1e86756ac044bb940fe6d6204c3a79731\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\github\MyApplication\mynotification\build\intermediates\pre-dexed\debug\classes_30de526e8267c41324e77921fd368cd4bfbe8168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\1145219e73537d37fa9332f866e97669c63616bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\github\MyApplication\mynotification\build\intermediates\pre-dexed\debug\classes_417ae23b74a3a1a63b9d24cc519f40aeca9e2927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\github\MyApplication\mynotification\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4587515df70b11ae990e217c69c9b3a61733a049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\5dc86c0cca315e852698a50bc2e4c36d0c4a77f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\github\MyApplication\mynotification\build\intermediates\pre-dexed\debug\classes_3f1c8b2a7fa5a8bb34ed0d14d910e97ac2d455cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\296274c791b1ebb3d16781bd0ee8938c2b75a3ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\github\MyApplication\mynotification\build\intermediates\pre-dexed\debug\classes_5f4fce49a2ba1e27da2e8f6e1c7adff10938691c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\330616b834663cadc4f3e7b22ce9cb94f743e946\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\github\MyApplication\mynotification\build\intermediates\pre-dexed\debug\classes_df45d2ab9eabc8d002479f9463a366d8b73300bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\1b42084c0d12d4793c5199eda232a6b2a3090b51\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\github\MyApplication\mynotification\build\intermediates\pre-dexed\debug\classes_2c5366d91a45160cac44a6c0662c52ae1b8b9ac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\c93569dd76516c48ef8b90a9f81d7e55434288fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\github\MyApplication\mynotification\build\intermediates\pre-dexed\debug\classes_b72d9eac1e10bcfb1e65c8de0047a2b37334a05c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\067615abd19734e41dad600996648099cd0c25f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\github\MyApplication\mynotification\build\intermediates\pre-dexed\debug\classes_52acc1c27f6b05953f2f7b422437f986a31cd216.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\han\.android\build-cache\a2af02823809b6f39291bd4619dd5bfd40911663\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\github\MyApplication\mynotification\build\intermediates\pre-dexed\debug\classes_39b8e1bc8d562555e41507711146fbb213c52b22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\github\MyApplication\mynotification\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_3c9f5880fec0a880f40ecbbebb3a60ccb1f35afa.jar" />
+    </item>
+
+</items>
